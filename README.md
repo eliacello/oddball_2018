@@ -14,6 +14,6 @@ The analysis code is presented for example purposes only and is not reproducable
 
 # Dependencies
 
-MATLAB 2017a
-Signal Processing Toolbox (v. 7.4)
-Statistics and Machine Learning Toolbox (v. 11.1)
+MATLAB 2017b 
+Signal Processing Toolbox (v. 7.4) 
+Statist ics and Machine Learning Toolbox (v. 11.1)
