@@ -1,5 +1,6 @@
-# oddball_2018
-Analysis code for 'Musical syntax and semantic processing in dementia' by Benhamou &amp; Warren (in preparation) 2019
+# musical oddballs detection in Alzheimer's disease and frontotemporal dementia (2018-2020) - behavioural and pupillometry 
+Analysis code for Benhamou E, Zhao S, Sivasathiaseelan H, et al. Decoding expectation and surprise in dementia: the paradigm of music. Brain Communications. 2021;3(3). doi:10.1093/braincomms/fcab173
+
 
 # Description 
 This experiment was designed to look at the mechanisms of pitch expectations in melodies and their physiological and neuroanatomical correlates in dementia (Alzheimer's disease and frontotemporal dementia). 
